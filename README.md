@@ -118,7 +118,7 @@ This was part of my graduate coursework in **Predictive Analytics** at **The Uni
 
 ---
 
-## 📈 Business Impact
+## Business Impact
 
 The deliverables helped Conagra:
 - Identify underperforming SKUs and regions
