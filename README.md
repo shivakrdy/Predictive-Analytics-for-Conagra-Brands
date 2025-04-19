@@ -128,9 +128,9 @@ The deliverables helped Conagra:
 
 ---
 
-## 🔐 Data Privacy & Availability
+## Data Privacy & Availability
 
-⚠️ Due to privacy policies, proprietary data from Conagra and Circana is **not included** in this repository.
+Due to privacy policies, proprietary data from Conagra and Circana is **not included** in this repository.
 
 - The datasets are over 20GB in size and are commercially licensed.
 - Only cleaned summaries, notebooks, and reports are included.
