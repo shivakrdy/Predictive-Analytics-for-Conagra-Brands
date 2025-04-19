@@ -56,15 +56,15 @@ Conagra provided access to large-scale commercial data sets (20GB+) through thei
 ```
 Predictive-Analytics-Conagra-Meat-Substitutes/
 │
-├── Phase-1_Exploratory-Analysis/
+├── Phase 1_Exploratory Analysis/
 │   ├── 01_Brand-Level_Sales_Trends.ipynb
 │   ├── 02_Gardein_Brand_Analysis.ipynb
 │   └── Conagra_Project_Report_Phase1.pdf
 │
-├── Phase-2_Pricing-Merchandising-Insights/
+├── Phase 2_Pricing Merchandising Insights/
 │   └── Conagra_Project_Report_Phase2.pdf
 │
-├── Phase-3_Product-Mix-Optimization/
+├── Phase 3_Product Mix Optimization/
 │   ├── 03_Final_Conagra_Product_Analysis.ipynb
 │   ├── Conagra_Project_Report_Phase3.pdf
 │   └── Conagra_Summary_Presentation_Phase3.pptx
